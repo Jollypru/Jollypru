@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">A frontend developer</p>
+<h3 align="center">A frontend developer</h3>
 
 ###
 
