@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="center">A frontend developer</h3>
+<p align="center">A frontend developer</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center">I'm currently in the final year of my bachelor's in Electrical and Electronic Engineering at Chittagong University of Engineering & Technology (CUET).    <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="center">I'm currently in the final year of my bachelor's in Electrical and Electronic Engineering at Chittagong University of Engineering & Technology (CUET). I'm a passionate about learning web development, constantly different tools and frameworks to enhance my skills. My journey in tech has led me to build lots of projects  using React, Vite, Tailwind CSS and various libraries.  I'm always eager to connect with like-minded individuals and collaborate on interesting projects.<br><br>- 📚 I'm currently learning Next.js<br>- 🎯 Goals :  To be a full-stack developer<br>- ⚡ In my free time I love to watch movies, dramas and play video games.</p>
 
 ###
 
@@ -64,12 +64,6 @@
   <a href="https://t.me/jolly_pru" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="56" height="40" alt="telegram logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jollypru&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
