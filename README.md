@@ -8,11 +8,11 @@
 
 <h1 align="center">✨ hey 👋, I'm Jolly ✨</h1>
 
+<h2 align="center">A Frontend Developer</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED&width=435&lines=Frontend+Developer;Passionate+Learner;Lifelong+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F80ED&width=435&lines=Passionate+Learner;Lifelong+Innovator;Exploring+Next.js" alt="Typing SVG" />
 </p>
 
-<h2 align="center">A Frontend Developer</h2>
 
 ---
 
