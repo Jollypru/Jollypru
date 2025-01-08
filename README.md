@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/Jollypru/Jollypru/blob/main/Untitled%20design.png"  />
+  <img height="150" src="https://raw.githubusercontent.com/Jollypru/Jollypru/refs/heads/main/image.jpg"  />
 </div>
 
 ###
