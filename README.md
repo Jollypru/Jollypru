@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" width="700" src="https://raw.githubusercontent.com/Jollypru/Jollypru/refs/heads/main/image.jpg" alt="Header Image" />
+  <img height="260" width="750" src="https://raw.githubusercontent.com/Jollypru/Jollypru/refs/heads/main/image.jpg" alt="Header Image" />
 </div>
 
 <div align="center">
@@ -8,10 +8,12 @@
 
 <h1 align="center">✨ hey 👋, I'm Jolly ✨</h1>
 
-<h2 align="center">A Frontend Developer</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F80ED&width=435&lines=Passionate+Learner;Lifelong+Innovator;Exploring+Next.js" alt="Typing SVG" />
-</p>
+<h2 align="center">A Frontend Developer from Bangladesh</h2>
+<div  align="center">
+  <p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F80ED&width=435&lines=Passionate+Learner;React+%7C+Vite+%7C+Tailwind+Enthusiast;Exploring+Next.js+and+Beyond" alt="Typing SVG" />
+  </p>
+</div>
 
 
 ---
@@ -19,14 +21,15 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="center">
-  I'm currently in the final year of my bachelor's in Electrical and Electronic Engineering at Chittagong University of Engineering & Technology (CUET). I'm passionate about learning web development, constantly exploring different tools and frameworks to enhance my skills. 
-  <br><br>
-  My journey in tech has led me to build numerous projects using React, Vite, Tailwind CSS, and various libraries. I'm always eager to connect with like-minded individuals and collaborate on interesting projects.
-  <br><br>
-  - 📚 Currently learning: Next.js<br>
-  - 🎯 Goals: To become a full-stack developer<br>
-  - ⚡ Fun fact: In my free time, I love watching movies, dramas, and playing video games.
+  I'm currently in the final year of my bachelor's in Electrical and Electronic Engineering at <strong>Chittagong University of Engineering & Technology (CUET)</strong>. 
+  Passionate about learning web development, I experiment with different tools and frameworks to enhance my skills. My journey in tech has led me to build projects using <strong>React, Vite, Tailwind CSS</strong>, and other libraries. I'm always eager to connect with like-minded individuals and collaborate on exciting projects.
 </p>
+
+<div align="center">
+  📚 <strong>Currently learning:</strong> Next.js<br>
+  🎯 <strong>Goals:</strong> To be a Full-Stack Developer<br>
+  ⚡ <strong>Hobbies:</strong> Watching movies, dramas, and playing video games
+</div>
 
 ---
 
@@ -61,7 +64,7 @@
 
 ---
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left">🔥 My GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jollypru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="Stats Graph" />
@@ -74,3 +77,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jollypru&bg_color=1F222E&color=00BFFF&line=2F80ED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
+
+---
+
+<div align="center">
+  <!-- Footer -->
+  <h4>🌟 Thanks for visiting! 🌟</h4>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="150" alt="Thank You Animation" />
+</div>
