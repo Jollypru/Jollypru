@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="260" width="750" src="https://raw.githubusercontent.com/Jollypru/Jollypru/refs/heads/main/image.jpg" alt="Header Image" />
+  <img height="260" width="750" src="https://raw.githubusercontent.com/Jollypru/Jollypru/refs/heads/main/Jolly%20Pru%20marma.png" alt="Header Image" />
 </div>
 
 <div align="center">
