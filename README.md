@@ -21,8 +21,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="center">
-  I'm currently in the final year of my bachelor's in Electrical and Electronic Engineering at <strong>Chittagong University of Engineering & Technology (CUET)</strong>. 
-  Passionate about learning web development, I experiment with different tools and frameworks to enhance my skills. My journey in tech has led me to build projects using <strong>React, Vite, Tailwind CSS</strong>, and other libraries. I'm always eager to connect with like-minded individuals and collaborate on exciting projects.
+  I'm currently in the final year of my bachelor's in Electrical and Electronic Engineering at <strong>Chittagong University of Engineering & Technology (CUET)</strong>. Beyond my academic career I'm passionate about learning web development, I experiment with different tools and frameworks to enhance my skills. My journey in tech has led me to build projects using <strong>React, Vite, Tailwind CSS</strong>, and other libraries. I'm always eager to connect with like-minded individuals and collaborate on exciting projects.
 </p>
 
 <div align="center">
